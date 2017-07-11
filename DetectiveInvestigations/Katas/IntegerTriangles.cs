@@ -18,7 +18,7 @@ namespace DetectiveInvestigations.Katas
             // 0 < n < m, m != n mod 3
 
             // p = 2 * m^2 - n^2 + m * n, p <= per
-
+            return 0;
         }
     }
 }

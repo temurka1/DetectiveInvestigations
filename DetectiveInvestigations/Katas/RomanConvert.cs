@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace DetectiveInvestigations
+namespace DetectiveInvestigations.Katas
 {
     /// <summary>
     /// https://www.codewars.com/kata/roman-numerals-encoder
     /// </summary>
-    public static class RomanConvert.Katas
+    public static class RomanConvert
     {
         private static Dictionary<int, List<string>> table = new Dictionary<int, List<string>>
         {

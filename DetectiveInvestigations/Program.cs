@@ -1,5 +1,7 @@
 ﻿using System;
 using DetectiveInvestigations.Katas;
+using System.Diagnostics;
+using System.Linq;
 
 namespace DetectiveInvestigations
 {
@@ -7,7 +9,6 @@ namespace DetectiveInvestigations
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(IntegerTriangles.GiveTriang(15));
             Console.ReadKey();
         }
     }

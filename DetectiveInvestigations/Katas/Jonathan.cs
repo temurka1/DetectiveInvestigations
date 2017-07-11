@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace DetectiveInvestigations
+namespace DetectiveInvestigations.Katas
 {
     /// <summary>
     /// https://www.codewars.com/kata/john-and-ann-sign-up-for-codewars 
     /// </summary>
-    public class Johnann.Katas
+    public class Johnann
     {
         private static readonly Dictionary<long, long> As = new Dictionary<long, long> { { 0, 1 } };
         private static readonly Dictionary<long, long> Js = new Dictionary<long, long> { { 0, 0 } };
