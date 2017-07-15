@@ -9,6 +9,8 @@ namespace DetectiveInvestigations
     {
         public static void Main(string[] args)
         {
+            int[] res = CWeakNumbers.WeakNumbers(500);
+            Console.WriteLine($"a = {res[0]}; b = {res[1]}");
             Console.ReadKey();
         }
     }
