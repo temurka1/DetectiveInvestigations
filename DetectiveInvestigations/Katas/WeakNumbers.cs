@@ -6,7 +6,7 @@ namespace DetectiveInvestigations.Katas
     /// <summary>
     /// https://www.codewars.com/kata/simple-fun-number-26-weak-numbers
     /// </summary>
-    public static class CWeakNumbers
+    public static class WNumbers
     {
         public static int[] WeakNumbers(int n)
         {
